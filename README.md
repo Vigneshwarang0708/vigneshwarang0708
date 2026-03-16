@@ -28,6 +28,4 @@ concepts
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwarang0708&layout=compact&theme=dracula)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwarang0708&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshwarang0708&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwarang0708&show_icons=true&theme=tokyonight)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshwarang0708&theme=tokyonight)
